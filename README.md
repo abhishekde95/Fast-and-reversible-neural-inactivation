@@ -1,2 +1,2 @@
 # Fast-and-reversible-neural-inactivation
- Data from De et al. paper
+ Data from De et al. manuscript
